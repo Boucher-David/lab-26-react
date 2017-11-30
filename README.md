@@ -1,6 +1,10 @@
 401 JS --  Lab 26 Cowsay
 ===
 
+## Lab Description
+
+My application contains an App component which displays a header, a cowsay pre tag, and a button for changing the cowsay content. The button updates the state content (this.state.content), which allows react to update what cowsay says.
+
 ## Submission Instructions
   * Work in a fork of this repository
   * Work in a branch on your fork
